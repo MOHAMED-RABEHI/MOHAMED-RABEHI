@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm RABHI MOHAMED LAMINE
 
-<!--
-**MOHAMED-RABEHI/MOHAMED-RABEHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer who loves creating intuitive and useful software. Currently diving deep into web development, AI , or any topic that challenges me!
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- 💻 Languages: JavaScript, Python, C++
+- 🌐 Web: HTML, CSS, React, Node.js,Tailwindcss,Jwt
+- 🗃️ Database: MongoDB, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub 
+
+https://github.com/MOHAMED-RABEHI/MOHAMED-RABEHI
+
+## 📫 Contact Me
+- Email: rabehimohamedlamine101@gmail.com
+
+- LinkedIn: www.linkedin.com/in/rabhi-mohamed-lamine-56a16b324
